@@ -1,6 +1,6 @@
 # stats220
 
-_This folder is for Projects undertaken in Stats 220 at the [University of Auckland](https://www.auckland.ac.nz/en.html)_
+**This folder is for Projects undertaken in Stats 220 at the [University of Auckland](https://www.auckland.ac.nz/en.html)**
 
 ## Project1
 
