@@ -1,8 +1,8 @@
 # stats220
 
-This folder is for Projects undertaken in Stats 220 at the [University of Auckland!](https://www.auckland.ac.nz/en.html)
+_This folder is for Projects undertaken in Stats 220 at the [University of Auckland](https://www.auckland.ac.nz/en.html)_
 
-##Project1
+## Project1
 
 *In this project I created a meme and an animated GIF.*
 
